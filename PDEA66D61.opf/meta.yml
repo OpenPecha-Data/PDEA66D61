@@ -1,0 +1,16 @@
+id: PDEA66D61
+initial_creation_type: input
+source_metadata:
+  title: Pemakö Series
+  language: bo
+  description: 'Texts related to the hidden land of Pemakö (pad+ma bkod), or Pemokö
+    (pad+mo bkod), famed as a sanctuary from warfare and disease:'
+  volume:
+    364662eb3968406cad8d34b414e5f55a:
+      title: An Aspiration to Travel to the Hidden Land of Pemokö
+      parent: Aspiration Prayers
+    3ce8fd66189f4ae88e2467d952930c03:
+      title: The Guidebook to the Hidden Land of Pemokö
+      parent: Guides
+created_at: '2022-03-01T05:04:10.101545'
+last_modified_at: '2022-03-01T05:04:10.101548'
